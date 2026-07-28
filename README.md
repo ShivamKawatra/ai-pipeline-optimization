@@ -1,4 +1,4 @@
-# AI Pipeline Optimization Assignment
+# AI Pipeline Optimization
 
 A small Node.js project that demonstrates practical helpers for preparing text in an AI-agent pipeline. It focuses on reducing unnecessary context and prompt repetition before text is sent to a downstream model or agent.
 
